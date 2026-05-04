@@ -1,12 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Yuwan Fu 
+## About Me
 
+I am **Yuwan Fu**, an undergraduate student majoring in **Computer Science and Technology** at **Henan University**. I enrolled in 2023 and am currently developing my academic interests in artificial intelligence, computer vision, and medical image analysis.
+
+My current research interests include medical image understanding, chest X-ray anomaly detection, image reconstruction, vision-language models, and generative models. I am particularly interested in building intelligent systems that can combine visual evidence, semantic descriptions, and structured prior knowledge for more interpretable medical image analysis.
+
+**Email:** gjomfyw@henu.edu.cn
+**Institution:** Henan University  
+**Major:** Computer Science and Technology  
+**Enrollment Year:** 2023  
+
+I am also interested in practical deep learning systems, including model training, experimental evaluation, data processing, and the design of research pipelines.
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
